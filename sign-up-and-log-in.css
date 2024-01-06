@@ -1,0 +1,262 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.sign-up-and-log-in-5dB {
+  box-sizing: border-box;
+  padding: 23.7rem 59.6rem 19.2rem 46.4rem;
+  width: 100%;
+  height: 108rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #fafbff;
+}
+.sign-up-and-log-in-5dB .giri-yiZ {
+  box-sizing: border-box;
+  padding: 1.7rem 1.4rem 3.8rem 0.8rem;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e8edf3;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .welcome-to-bluddit-sow {
+  margin: 0rem 0rem 1.2rem 2.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #3466f6;
+  font-family: K2D, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .welcome-to-bluddit-sow .welcome-to-bluddit-sow-sub-0 {
+}
+.sign-up-and-log-in-5dB .giri-yiZ .welcome-to-bluddit-sow .welcome-to-bluddit-sow-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #3466f6;
+  font-family: K2D, 'Source Sans Pro';
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-Cjj {
+  margin: 0rem 0.6rem 1.3rem 1.2rem;
+  width: calc(100% - 1.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-Cjj .line-5-pFK {
+  margin: 0rem 1.001rem 0.1rem 0rem;
+  width: 13.9rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-Cjj .login-8mo {
+  margin-right: 0.2993rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6b7280;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-Cjj .line-6-Gd7 {
+  margin-bottom: 0.1rem;
+  width: 13.9rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-QDX {
+  margin: 0rem 0.6rem 3.9rem 1.2rem;
+  width: calc(100% - 1.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-QDX .username-jFo {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-QDX .rectangle-21-sN1 {
+  width: 100%;
+  height: 4.4rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-yR3 {
+  margin: 0rem 0.6rem 2.5rem 1.2rem;
+  width: calc(100% - 1.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-yR3 .username-5ys {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .input-yR3 .rectangle-21-16q {
+  width: 100%;
+  height: 4.4rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .checkbox-7ff {
+  margin: 0rem 0rem 2.3rem 1.2rem;
+  height: 3.8rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .checkbox-7ff .rectangle-22-3pD {
+  margin-right: 0.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .checkbox-7ff .keep-me-loged-in-kyX {
+  margin: 0.4rem 5.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .checkbox-7ff .forgot-password-UuX {
+  margin-top: 0.4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: rgba(52, 141, 246, 0.75);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .buton-bDT {
+  margin: 0rem 1.2rem 3.3rem 0.6rem;
+  width: calc(100% - 1.8rem);
+  height: 4.4rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3466f6;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-r9P {
+  margin: 0rem 1.8rem 1.6rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-r9P .line-5-noj {
+  margin: 0rem 2.001rem 0.1rem 0rem;
+  width: 13.9rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-r9P .or-v9F {
+  margin-right: 1.8993rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6b7280;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .ya-da-r9P .line-6-rob {
+  margin-bottom: 0.1rem;
+  width: 13.9rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .auto-group-j1cu-CMf {
+  margin-left: 1.3rem;
+  width: 33.9rem;
+  height: 14.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .auto-group-j1cu-CMf .continue-with-apple-wa9 {
+  width: 13.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 3.3rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-and-log-in-5dB .giri-yiZ .auto-group-j1cu-CMf .img2175-1-qvR {
+  width: 33.9rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+a{
+  text-decoration: none;
+}
